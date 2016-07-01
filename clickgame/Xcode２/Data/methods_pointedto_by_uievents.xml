@@ -1,0 +1,13 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="GameManager">
+			<method name="ToggleChanged"/>
+			<method name="SetColor"/>
+			<method name="SetColor"/>
+			<method name="SetName"/>
+			<method name="ToggleChanged"/>
+			<method name="SetColor"/>
+			<method name="ToggleChanged"/>
+		</type>
+	</assembly>
+</linker>
